@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maazahmada.github.io/Tapora/sitemap.xml
